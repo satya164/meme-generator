@@ -1,0 +1,16 @@
+# OSX
+#
+.DS_Store
+
+# XDE
+.expo/
+
+# VSCode
+.vscode/
+jsconfig.json
+tsconfig.json
+
+# node.js
+#
+node_modules/
+npm-debug.log
